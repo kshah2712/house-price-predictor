@@ -13,9 +13,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Model files
-*.pkl
-*.joblib
 
 # Data
 data/raw/*.csv
