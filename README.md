@@ -1,3 +1,5 @@
+🌐 **Live Demo:** [Click here to try the app](https://house-price-predictor-ciqcgrmrzd2scjpbslkzql.streamlit.app)
+
 # 🏠 House Price Predictor
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
